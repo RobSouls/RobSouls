@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus
-- 👀 I’m interested in the tech/cloud industry
-- 🌱 I’m currently learning Information Security
+- 👀 I’m interested in the CyberSecurity/Cloud Security industry
+- 🌱 I’m currently learning SOC skills
 - 💞️ I’m looking to collaborate on training and studying
 - 📫 How to reach me: email - csap.marcus@gmail.com  
 - ⚡ Fun fact: I love to eat and my favorite hobby is learning 
